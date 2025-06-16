@@ -10,3 +10,5 @@ sentence-transformers
 huggingface-hub
 numpy
 pandas
+torch
+torchvision

@@ -4,7 +4,6 @@ An AI powered car insurance assitant
 ## TABLE OF CONTENTS
 -[FEATURES](#Features)
 -[SETUP](#Setup)
--[FOLDER_STRUCTURE]
 
 ## FEATURES
 This project uses
